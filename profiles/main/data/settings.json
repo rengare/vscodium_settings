@@ -1,0 +1,194 @@
+{
+  "security.allowedUNCHosts": [
+    "wsl.localhost"
+  ],
+  "telemetry.enableTelemetry": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "editor.background": "#1b1b1bff",
+    "sideBar.background": "#272727ff",
+    "activityBar.background": "#272727ff",
+    "notificationCenterHeader.background": "#1b1b1bff",
+    "notifications.background": "#1b1b1bff",
+    "activityBarTop.activeBackground": "#272727ff",
+    "editorGroupHeader.tabsBackground": "#1b1b1bff",
+    "editorGroupHeader.noTabsBackground": "#1b1b1bff",
+    "titleBar.activeBackground": "#2e2e2eff",
+    "titleBar.inactiveBackground": "#2e2e2eff",
+    "statusBar.background": "#1b1b1bff",
+    "statusBar.noFolderBackground": "#1b1b1bff",
+    "statusBar.debuggingBackground": "#1b1b1bff",
+    "tab.activeBackground": "#5e5e5eff",
+    "tab.activeBorder": "#e79cfeff",
+    "tab.activeBorderTop": "#e79cfeff",
+    "tab.hoverBackground": "#4a4a4aff",
+    "quickInput.background": "#272727ff",
+    "tab.inactiveBackground": "#363636ff",
+    "sideBarSectionHeader.background": "#272727ff",
+    "list.focusOutline": "#e79cfeff",
+    "banner.background": "#272727ff",
+    "breadcrumb.background": "#272727ff",
+    "commandCenter.background": "#272727ff",
+    "terminal.background": "#272727ff",
+    "menu.background": "#272727ff",
+    "panel.background": "#272727ff",
+    "peekViewEditorGutter.background": "#1b1b1bff",
+    "peekViewResult.background": "#1b1b1bff",
+    "peekViewTitle.background": "#1b1b1bff",
+    "peekViewEditor.background": "#1b1b1bff",
+    "peekViewResult.selectionBackground": "#1b1b1bff",
+    "editorWidget.background": "#1b1b1bff",
+    "editorSuggestWidget.background": "#1b1b1bff",
+    "editorHoverWidget.background": "#1b1b1bff",
+    "input.background": "#1b1b1bff",
+    "dropdown.background": "#1b1b1bff",
+    "settings.checkboxBackground": "#1b1b1bff",
+    "settings.textInputBackground": "#1b1b1bff",
+    "settings.numberInputBackground": "#1b1b1bff",
+    "settings.dropdownBackground": "#1b1b1bff",
+    "sideBar.dropBackground": "#1b1b1bff",
+    "list.activeSelectionBackground": "#272727ff",
+    "list.inactiveSelectionBackground": "#272727ff",
+    "list.focusBackground": "#272727ff",
+    "list.hoverBackground": "#272727ff",
+    "editor.foreground": "#e7e7e7ff",
+    "editorLineNumber.foreground": "#e7e7e7ff",
+    "editorCursor.foreground": "#e7e7e7ff",
+    "sideBar.foreground": "#f8f8f8ff",
+    "activityBar.foreground": "#f8f8f8ff",
+    "statusBar.foreground": "#f8f8f8ff",
+    "tab.activeForeground": "#f8f8f8ff",
+    "tab.inactiveForeground": "#f8f8f8ff",
+    "editorGroupHeader.tabsForeground": "#f8f8f8ff",
+    "sideBarSectionHeader.foreground": "#f8f8f8ff",
+    "statusBar.debuggingForeground": "#f8f8f8ff",
+    "statusBar.noFolderForeground": "#f8f8f8ff",
+    "editorWidget.foreground": "#f8f8f8ff",
+    "editorSuggestWidget.foreground": "#f8f8f8ff",
+    "editorHoverWidget.foreground": "#f8f8f8ff",
+    "input.foreground": "#f8f8f8ff",
+    "dropdown.foreground": "#f8f8f8ff",
+    "terminal.foreground": "#f8f8f8ff",
+    "menu.foreground": "#f8f8f8ff",
+    "panel.foreground": "#f8f8f8ff",
+    "peekViewEditorGutter.foreground": "#f8f8f8ff",
+    "peekViewResult.selectionForeground": "#f8f8f8ff",
+    "inputOption.activeBorder": "#e79cfeff",
+    "activityBarBadge.background": "#e79cfeff",
+    "statusBar.debuggingBorder": "#e79cfeff",
+    "button.background": "#e79cfeff",
+    "button.hoverBackground": "#cd91dfff",
+    "statusBarItem.remoteBackground": "#e79cfeff",
+    "activityBarBadge.foreground": "#000000ff",
+    "button.foreground": "#000000ff",
+    "textLink.foreground": "#e79cfeff",
+    "textLink.activeForeground": "#e79cfeff",
+    "peekView.border": "#e79cfeff",
+    "settings.checkboxForeground": "#e79cfeff"
+  },
+  "git.autofetch": true,
+  "explorer.confirmDelete": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/3rd": true
+  },
+  "window.titleBarStyle": "custom",
+  "breadcrumbs.enabled": true,
+  "material-icon-theme.folders.color": "#26a69a",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "files.associations": {
+    "*.html": "html"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "matklad.rust-analyzer"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "vim.handleKeys": {
+    "<C-w>": false,
+    "<C-a>": false,
+    "<C-f>": false,
+    "<C-b>": false,
+    "<C-h>": false,
+    "<C-c>": false,
+    "<C-x>": false,
+    "<C-v>": false,
+    "<C-k>": false,
+    "<delete>": false,
+    "<C-n>": false,
+    "<A-q>": false
+  },
+  "workbench.editor.enablePreview": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.suggest.showStatusBar": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.autoClosingBrackets": "always",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 160,
+  "editor.cursorBlinking": "solid",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "gitProjectManager.baseProjectsFolders": [
+    "~/workspace"
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.showTabs": "multiple",
+  "editor.minimap.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "npm.keybindingsChangedWarningShown": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "yaml.schemas": {
+    "file:///c%3A/Users/gorec/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.jira.jqlList": [
+    {
+      "id": "c3724e41-2957-4c63-9dc8-53db68c820c4",
+      "enabled": true,
+      "name": "My tcglobal Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "ace768e7-d1e4-4be1-a13d-ed3739e0f7b9",
+      "monitor": true
+    }
+  ],
+  "redhat.telemetry.enabled": true,
+  "editor.fontSize": 18,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Users\\gorec\\dev_packages\\jdk"
+    }
+  ],
+  "java.import.gradle.home": "C:\\Gradle\\gradle-8.7",
+  "java.configuration.detectJdksAtStart": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "java.configuration.maven.globalSettings": "C:\\Users\\gorec\\dev_packages\\maven\\conf",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Gruvbox Material Dark"
+}
