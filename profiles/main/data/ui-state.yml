@@ -113,7 +113,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   tProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]}]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.size: "234"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["plaintext",true],["yaml",true],["json",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["plaintext",true],["yaml",true],["json",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"liveshare.session","isHidden":false},{"id":"liveshare.help","isHidden":false},{"id":"liveshare.devtools","isHidden":false}]'
 workbench.grid.size: '{"height":503,"width":938}'
 workbench.panel.alignment: center

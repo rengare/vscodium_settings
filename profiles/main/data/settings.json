@@ -160,34 +160,13 @@
   "workbench.editor.showTabs": "multiple",
   "editor.minimap.enabled": false,
   "editor.inlineSuggest.enabled": true,
-  "npm.keybindingsChangedWarningShown": true,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
   "yaml.schemas": {
     "file:///c%3A/Users/gorec/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
   },
-  "atlascode.jira.jqlList": [
-    {
-      "id": "c3724e41-2957-4c63-9dc8-53db68c820c4",
-      "enabled": true,
-      "name": "My tcglobal Issues",
-      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
-      "siteId": "ace768e7-d1e4-4be1-a13d-ed3739e0f7b9",
-      "monitor": true
-    }
-  ],
-  "redhat.telemetry.enabled": true,
   "editor.fontSize": 18,
-  "java.configuration.runtimes": [
-    {
-      "name": "JavaSE-21",
-      "path": "C:\\Users\\gorec\\dev_packages\\jdk"
-    }
-  ],
-  "java.import.gradle.home": "C:\\Gradle\\gradle-8.7",
-  "java.configuration.detectJdksAtStart": false,
   "security.workspace.trust.untrustedFiles": "open",
-  "java.configuration.maven.globalSettings": "C:\\Users\\gorec\\dev_packages\\maven\\conf",
   "github.copilot.editor.enableAutoCompletions": true,
   "window.autoDetectColorScheme": true,
   "workbench.preferredLightColorTheme": "Gruvbox Material Dark"
